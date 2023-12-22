@@ -115,3 +115,10 @@ section {
   border-color: #148d78 !important;
   color: #148d78 !important;
 }
+
+@media (max-width: 360px) {
+  #themeSwitcher {
+    padding: 0.3rem 0;
+    margin-left: 1rem;
+  }
+}
